@@ -1,5 +1,3 @@
-Include a README.md with the following
-
 model objects like User or Album are all in the model package
 Tasks for launching web requests and retrofit interfaces are in the network package
 in the ui package we get the mainActivity and all the fragments, we here use one Activity and several fragments for a better user navigation and in case we have to do a pad app (we could display list of users and list of album in the same screen in 2 different fragment)
